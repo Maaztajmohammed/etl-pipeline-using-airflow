@@ -1,0 +1,2 @@
+City,Description,Temperature (F),Feels Like (F),Max temp (F),Min temp (F),Pressure,Humidity,Wind Speed,Time of Record,Sunrise (LocalTime),Sunset (LocalTime)
+Pune,scattered clouds,75.09,74.46,75.09,75.09,1012,46,1.11,21:39:30,06:34:54,18:01:17
